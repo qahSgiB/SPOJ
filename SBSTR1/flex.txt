@@ -1,0 +1,12 @@
+minified length : 3846 characters
+
++ count         : 184
+- count         : 835
+> count         : 1278
+< count         : 1274
+[ count         : 128
+] count         : 128
+. count         : 2
+, count         : 17
+
+memory needed   : 43 cells
