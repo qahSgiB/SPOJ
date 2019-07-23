@@ -177,3 +177,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+# Not finished solutions
+./FCTRL2
