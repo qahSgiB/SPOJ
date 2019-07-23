@@ -178,7 +178,14 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
 
 
 # Not finished solutions
-./FCTRL2
+./FCTRL2/*
