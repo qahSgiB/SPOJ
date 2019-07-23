@@ -188,4 +188,4 @@ dmypy.json
 
 
 # Not finished solutions
-./FCTRL2/*
+FCTRL2/main.rkt
